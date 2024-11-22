@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+[[<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+[            background-color: #f4f4f9;
             margin: 0;
             padding: 0;
             display: flex;
@@ -33,7 +33,7 @@
 
         .login-container input {
             width: 100%;
-            padding: 12px;
+            padding: 12px;](https://github.com/VLADIMIRSAHAGUN/VladCode.git)
             margin: 10px 0;
             border: 1px solid #ccc;
             border-radius: 4px;
@@ -95,4 +95,5 @@
 
 </body>
 </html>
-
+](https://github.com/VLADIMIRSAHAGUN/VladCode.git)
+](https://github.com/VLADIMIRSAHAGUN/VladCode.git)
